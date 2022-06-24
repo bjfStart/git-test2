@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("第二次修改");
 
         System.out.println("hot-fix修改");
+
+        System.out.println("hot-fix test");
     }
 }
